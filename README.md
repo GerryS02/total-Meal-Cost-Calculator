@@ -61,3 +61,5 @@ Although the program is functional as it stands, there are several ways it could
 - **More Detailed Error Handling**: Improve error handling to handle edge cases like negative numbers, zero, or empty inputs.
 - **Save/Print Receipt**: Add functionality for saving or printing the calculated total as a receipt.
 - **Improved UI**: Enhance the user interface with more interactive features like sliders for selecting meal prices or tip amounts.
+<hr>
+![Image](https://github.com/user-attachments/assets/e7d59a27-03b0-47e5-a178-6bd60666b963)
