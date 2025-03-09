@@ -1,5 +1,5 @@
-# Price
-# GurpreetSingh
+# Toatl Meal Cost Calculator
+# Gerry
 
 import ECGUI
 import Util
