@@ -1,5 +1,5 @@
-# Price
-# GurpreetSingh
+# Total Meal Coast Estimator
+# Gerry 
 
 import ECGUI
 import Util
