@@ -62,4 +62,4 @@ Although the program is functional as it stands, there are several ways it could
 - **Save/Print Receipt**: Add functionality for saving or printing the calculated total as a receipt.
 - **Improved UI**: Enhance the user interface with more interactive features like sliders for selecting meal prices or tip amounts.
 <hr>
-https://github.com/GerryS02/total-Meal-Cost-Calculator/blob/main/Screenshot%202025-03-09%20110621.png?raw=true
+![Image alt](https://github.com/GerryS02/total-Meal-Cost-Calculator/blob/main/Screenshot%202025-03-09%20110621.png?raw=true)
