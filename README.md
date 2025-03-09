@@ -36,14 +36,8 @@ The program was designed with simplicity and ease of use in mind. The user is on
       - Tax: **$3.50** (7% of $50)
       - **Total Price**: **$62.50** (Meal Price + Tip + Tax)
 
-## Practical Use Cases
-
-This project is ideal for:
-- **Restaurant Goers**: Quickly calculate the total cost of a meal, including tip and tax, without needing to manually figure it out.
-- **Service Industry Workers**: Easily determine the tip based on meal price.
-- **Learning Projects**: Perfect for beginners wanting to practice Python programming and GUI development.
-  
-By building this program, you can also get hands-on experience with user interface design and handling user input in a Python environment.
+These results help users quickly know how much they need to pay, including the suggested tip and applicable tax.
+By building this program, one can get hands-on experience with user interface design and handling user input in a Python environment.
 
 ## Technologies Used
 
@@ -58,15 +52,6 @@ ECGUI makes creating graphical interfaces in Python simple. The window contains:
 - **Labels**: To display the tip, tax, and total price.
 
 The visual design is clean and easy to use, making this project suitable for a beginner-level GUI project.
-
-## Example
-
-When the user enters a meal price of **$50**, the application will display:
-- **Tip**: `$9.00`
-- **Tax**: `$3.50`
-- **Total Price**: `$62.50`
-
-These results help users quickly know how much they need to pay, including the suggested tip and applicable tax.
 
 ## Future Enhancements
 
