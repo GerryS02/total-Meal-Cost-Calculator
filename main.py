@@ -1,5 +1,5 @@
-# Total Meal Coast Estimator
-# Gerry 
+# Total Meal Cost Estimator
+# Gerry
 
 import ECGUI
 import Util
@@ -8,7 +8,7 @@ TIP_FACTOR = 18/100
 TAX_FACTOR = 7/100
 
 def main():
-    my_window = ECGUI.make_window('Total Price', 'white')
+    my_window = ECGUI.make_window('Meal Cost Estimator', 'white')
 
     # create an entry widget for price of meal
     str_message = "Input Total price of the meal:  "
