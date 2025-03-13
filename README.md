@@ -63,4 +63,4 @@ Although the program is functional as it stands, there are several ways it could
 - **Improved UI**: Enhance the user interface with more interactive features like sliders for selecting meal prices or tip amounts.
 <hr>
 
-![image alt](https://github.com/GerryS02/total-Meal-Cost-Calculator/blob/7985d80501ac51873937c51c2e0596a229e38206/Screenshot%202025-03-09%20110621.png)
+![image alt](https://github.com/GerryS02/total-Meal-Cost-Calculator/blob/42be60b93f1b8441a44a82322a390ba36597acf9/Screenshot%202025-03-11%20171005.png)
